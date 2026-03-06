@@ -9,5 +9,8 @@ dependencies = [
     "matplotlib>=3.10.8",
     "networkx>=3.6.1",
     "numpy>=2.4.2",
+    "psycopg>=3.3.3",
+    "pydantic-settings>=2.13.1",
+    "sqlalchemy>=2.0.48",
     "uvicorn>=0.41.0",
 ]
